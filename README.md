@@ -1,5 +1,5 @@
 Character_Recognition
-Handwritten Character Recognition using CNN and MNIST Dataset for CodeAlpha ML Internship.
+Handwritten Character Recognition using CNN and MNIST Dataset.
 # Handwritten Character Recognition
 
 ## Objective
