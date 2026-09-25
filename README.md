@@ -1,4 +1,4 @@
-# CodeAlpha_Handwritten_Character_Recognition
+Character_Recognition
 Handwritten Character Recognition using CNN and MNIST Dataset for CodeAlpha ML Internship.
 # Handwritten Character Recognition
 
@@ -36,5 +36,3 @@ MNIST Dataset (60,000 training images and 10,000 testing images)
 ## Developed By
 Rahi Patel
 
-## Internship
-CodeAlpha Artificial Intelligence Internship
